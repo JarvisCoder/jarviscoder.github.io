@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Arjun Pandiyan",
+    "description": "I, like anyone else first am an Observer. Building things in the cyber world is what I liked and that is what I do for a living. I have been part of the software industry from 2008 working for different companies. I continue to have a blast learning and doing what excites me",
+    "image":"profilepic.jpg",
+    "bio":"I started my career as an intern at Horizon Wind Energy at Houston, TX. This was the most exciting times where I built a MS Silverlight application that showcased a map powered by ARC GIS for showing wind farms. From there I worked as a Software Engineer in several other companies like E-GuideTV, Zynga, Intuit, Coursera and ServiceNow. I have not worked on the same technology in any of these companies. Blessing or curse that I switched so much but now I see the big picture and I love it",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pandiyan.arjun@gmail.com",
+    "phone": "214-918-6801",
+    "github":"https://github.com/JarvisCoder",
+    "project":"https://github.com/JarvisCoder/jarviscoder.github.io",
+    "address":{
+      "street":"1979 Mahuron Circle",
+      "city":"San Jose",
+      "state":"California",
+      "zip": "95133"
+    },
+    "website": "http://www.arjunpandiyan.com",
+    "resumedownload":"http://arjunpandiyan.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/arjunepandiyan",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/arjunsonline",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arjunpandiyan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/arjun.pillai.insta",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/JarvisCoder",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have been part of several Engineering teams with well rounded experience in web application development, test and deployment",
+    "education":[
+      {
+        "school":"University of Texas at Dallas",
+        "degree":"Masters in Computer Science",
+        "graduated":"Dec 2010",
+        "description":"Projects were the best part of my graduate education giving me an opportunity to explore several domains like the Operating System, Compilers, Networking, etc,."
+      }
+    ],
+    "work":[
+      {
+        "company":"ServiceNow",
+        "title":"Senior FullStack Engineer",
+        "years":"July 2019 - Present",
+        "description":"FullStack Engineering in Javascript Framework to build Enterprise Software Applications for all customers taking advantage of platform level ML features."
+      },
+      {
+        "company":"Coursera",
+        "title":"Software Engineer",
+        "years":"April 2016 - July 2019",
+        "description":"+ Building backend engineering solutions for Enterprise and Partner needs. Built and released a scalable AI chatbot that can interact with learners, answer questions and connect with humans if need be. Introduced and managed AWS infrastructure to support business growth and support"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      },
+      {
+        "name":"Shell Script",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
